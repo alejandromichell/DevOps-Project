@@ -1,7 +1,7 @@
 DevOps Project
 This Repository is a collection of Implementation documents.
 
-Purpose:
+<H1> Purpose: </H1>
 Quick instructions to setup a DevOps CI/CD Pipeline using
 
 git
